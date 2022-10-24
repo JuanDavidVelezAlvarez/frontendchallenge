@@ -2,6 +2,11 @@
 
 Contains my code to implement the frontend challenge task
 
+Single page application that reads in a CSV file, uploaded from the user's computer, sum up all the data lines in a separate process, and outs it back on the same page, in the form of an HTML table.
+
+**Additional Feature Implemented:**  
+Ordering the table with click on the column titles  
+  
 Note: To test it requires a WebServer because it works with workers  
 
 **How to test it (using docker nginx image port 8080 change the port if busy):**  
