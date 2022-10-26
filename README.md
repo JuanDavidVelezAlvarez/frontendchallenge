@@ -20,3 +20,4 @@ Note: To test it requires a WebServer because it works with workers
   
 - Tests  
 
+![image](https://user-images.githubusercontent.com/116565655/197903730-e86a28fc-8bdb-4489-a145-3e4e5c38389b.png)
